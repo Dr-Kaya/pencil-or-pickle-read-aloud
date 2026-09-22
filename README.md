@@ -1,5 +1,7 @@
 # Pencil or Pickle? — Read & Listen
 
+[**Open the book and listen online**](https://dr-kaya.github.io/pencil-or-pickle-read-aloud/)
+
 An illustrated book about how AI learns and why it needs us. Read the original pages, hear page-by-page narration, jump between six chapters, adjust reading speed, or download a narrated EPUB.
 
 The original pages remain still. Reading starts only when a visitor presses **Read aloud**. Automatic reading pauses at each chapter’s activities.
